@@ -1,6 +1,7 @@
 //The DIY Life
 //10 October 2016
 //Michael Klements
+//Edited by Donny Prakarsa Utama
 
 #include <Servo.h> 
  
